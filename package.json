@@ -1,0 +1,17 @@
+{
+  "name": "dla-saving-coop-proto",
+  "version": "0.1.0",
+  "private": true,
+  "description": "ต้นแบบแอป DLA Saving Coop (Capacitor)",
+  "scripts": {
+    "sync": "cap sync android",
+    "open": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}

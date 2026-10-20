@@ -1,0 +1,6 @@
+{
+  "appId": "th.dla.proto",
+  "appName": "DLA Saving Coop",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
